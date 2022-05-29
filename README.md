@@ -1,6 +1,6 @@
-# 🔥 This is my Portfolio Website
+# This is my Portfolio Website 🤩
 
-### 🔥 Responsive Portfolio Website
+### Features
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
